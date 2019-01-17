@@ -1,0 +1,9 @@
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Core\bin\Debug\netcoreapp2.0\NHLStats.Core.deps.json
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Core\bin\Debug\netcoreapp2.0\NHLStats.Core.dll
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Core\bin\Debug\netcoreapp2.0\NHLStats.Core.pdb
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Core\obj\Debug\netcoreapp2.0\NHLStats.Core.csprojAssemblyReference.cache
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Core\obj\Debug\netcoreapp2.0\NHLStats.Core.csproj.CoreCompileInputs.cache
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Core\obj\Debug\netcoreapp2.0\NHLStats.Core.AssemblyInfoInputs.cache
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Core\obj\Debug\netcoreapp2.0\NHLStats.Core.AssemblyInfo.cs
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Core\obj\Debug\netcoreapp2.0\NHLStats.Core.dll
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Core\obj\Debug\netcoreapp2.0\NHLStats.Core.pdb

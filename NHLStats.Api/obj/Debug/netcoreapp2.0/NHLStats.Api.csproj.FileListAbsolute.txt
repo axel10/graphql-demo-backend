@@ -1,0 +1,16 @@
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NHLStats.Api.deps.json
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NHLStats.Api.runtimeconfig.json
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NHLStats.Api.runtimeconfig.dev.json
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NHLStats.Api.dll
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NHLStats.Api.pdb
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NHLStats.Core.dll
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NHLStats.Data.dll
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NHLStats.Core.pdb
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\bin\Debug\netcoreapp2.0\NHLStats.Data.pdb
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\obj\Debug\netcoreapp2.0\NHLStats.Api.csprojAssemblyReference.cache
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\obj\Debug\netcoreapp2.0\NHLStats.Api.csproj.CoreCompileInputs.cache
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\obj\Debug\netcoreapp2.0\NHLStats.Api.AssemblyInfoInputs.cache
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\obj\Debug\netcoreapp2.0\NHLStats.Api.AssemblyInfo.cs
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\obj\Debug\netcoreapp2.0\NHLStats.Api.csproj.CopyComplete
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\obj\Debug\netcoreapp2.0\NHLStats.Api.dll
+D:\repos\ASPNetCoreGraphQL-master\src\backend\NHLStats.Api\obj\Debug\netcoreapp2.0\NHLStats.Api.pdb
