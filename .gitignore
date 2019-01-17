@@ -4,9 +4,10 @@
 /node_modules
 /mock
 
+
 # production
 /dist
-
+bin/
 # misc
 .DS_Store
 npm-debug.log*
